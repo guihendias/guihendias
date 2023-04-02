@@ -2,17 +2,19 @@
 
 <div>
   <a href="https://github.com/guihendias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihendias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihendias&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihendias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihendias&layout=compact&langs_count=7&theme=dark"/>
     
-  <div style="padding: 1rem">
+  <br/>
+
+    
+ <div>
+     <img style="object-fit: cover; border: 1px solid #fff" width="430em" height="180em" src="https://leetcode.card.workers.dev/guilhermehenriquedias?theme=auto&font=baloo&extension=null" />
+    <br/>
     <br/>
     <img src="https://www.codewars.com/users/guihendias/badges/small" />
+    <br/>
   </div> 
-  <br/>
-  <img style="object-fit: cover; border: 1px solid #fff" width="430em" height="180em" src="https://leetcode.card.workers.dev/guilhermehenriquedias?theme=auto&font=baloo&extension=null" />
-    
-
 </div>
   
 <div style="display: inline_block">

@@ -9,10 +9,12 @@
     <br/>
     <img src="https://www.codewars.com/users/guihendias/badges/small" />
   </div> 
+  <br/>
+  <img style="object-fit: cover; border: 1px solid #fff" width="430em" height="180em" src="https://leetcode.card.workers.dev/guihendias?theme=auto&font=baloo&extension=null" />
     
-  ![Leetcode Stats](https://leetcode.card.workers.dev/guilhermehenriquedias?theme=nord&font=baloo&extension=null)
-</div>
 
+</div>
+  
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

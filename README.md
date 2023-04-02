@@ -4,6 +4,13 @@
   <a href="https://github.com/guihendias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihendias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihendias&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+  <div style="padding: 1rem">
+    <br/>
+    <img src="https://www.codewars.com/users/guihendias/badges/small" />
+  </div> 
+    
+  ![Leetcode Stats](https://leetcode.card.workers.dev/guilhermehenriquedias?theme=nord&font=baloo&extension=null)
 </div>
 
 <div style="display: inline_block">
@@ -33,12 +40,7 @@
   </a>
   <a href="https://www.linkedin.com/in/guihendias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-  <br />
-  <br /> 
-  
-  <img src="https://www.codewars.com/users/guihendias/badges/small" />
+  </a>  
   
   ![Snake animation](https://github.com/guihendias/guihendias/blob/output/github-contribution-grid-snake.svg)
  
